@@ -23,3 +23,4 @@ check:
 clean:
 	rm -f hello.o hello
 
+some commit message
