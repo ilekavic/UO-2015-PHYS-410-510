@@ -1,6 +1,8 @@
 #
 # this is a comment
 
+I HAVE COMMITTED A MESSAGE
+
 #
 # define environment variables (compilers/linker/libraries...)
 
