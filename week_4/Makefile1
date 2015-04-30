@@ -1,0 +1,28 @@
+#
+# this is a comment
+
+#
+# define environment variables (compilers/linker/libraries...)
+
+
+FFLAGS = -c
+LIBS =
+
+#
+# define targets
+
+check: Hwk4.py
+	@echo "Running program hello..."
+	python Hwk4.py 
+
+
+
+
+# run tests
+#check: hello
+#	@echo "Running program hello..."
+#	@hello
+
+clean:
+	rm -f hello
+
